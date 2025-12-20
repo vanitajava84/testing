@@ -13,7 +13,7 @@ public class LoginSteps {
     }
     @When("user enters valid credentials")
     public void userEntersValidCredentials() {
-        System.out.println("user enters valid credentialssss");
+        System.out.println("user enters valid credentialsssss");
     }
     @Then("user should be navigated to the home page")
     public void userShouldBeNavigatedToTheHomePage() {
